@@ -18,23 +18,22 @@ a{
   display: inline-block;
   text-decoration:none;
   color: white;
-}
-.ta:hover{
-  border-bottom: solid white 2px;
-  background-color:black;
+
 }
 nav>ul>li:hover{
   box-sizing: border-box;
   border-bottom:solid 3px white;
   background-color:black;
 }
+
 nav:nth-child(2){
   display: block;
+  top: 79px;
   width: 100%;
-  height: 200px;
+  height: 50px 30px 50px 30px;
   background-color: black;
   overflow: hidden;
-  animation: slide 12s infinite;
+  animation: slide 0s infinite;
   position: absolute;
 }
 nav:nth-child(2)>*{
@@ -43,47 +42,60 @@ nav:nth-child(2)>*{
   height:100%;
   background-color:black;
   overflow: hidden;
-  animation: slide 12s infinite;
+  animation: slide 2s infinite;
   position: absolute;
 
 }
 slide:nth-child(1){
-  animation-delay: 1s;
-  background-image: url(../ASSET/1.jpg);
+  animation-delay:3.5s;
+  background-image: url(../ASSET/7.jpg);
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(2){
-  animation-delay: 2s;
-  background-image: url(../ASSET/2.jpg);
+  animation-delay: 3s;
+  background-image: url(../ASSET/8.jpg);
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(3){
-  animation-delay: 3s;
-  background-image: url(../ASSET/3.jpg);
+  animation-delay: 2.5s;
+  background-image: url(../ASSET/9.jpg);
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(4){
-  animation-delay: 4s;
-  background-image: url(../ASSET/4.jpg);
+  animation-delay: 2s;
+  background-image: url(../ASSET/10.jpg);
   background-size: cover;
   background-position: center;
 }
 slide:nth-child(5){
-  animation-delay: 5s;
-  background-image: url(../ASSET/5.jpg);
+  animation-delay: 1.5s;
+  background-image: url(../ASSET/11.jpg);
   background-size: cover;
   background-position: center;
 }
-@@keyframes slide {
+slide:nth-child(6){
+  animation-delay: 1s;
+  background-image: url(../ASSET/12.jpg);
+  background-size: cover;
+  background-position: center;
+}
+slide:nth-child(7){
+  animation-delay: 0.5s;
+  background-image: url(../ASSET/13.jpg);
+  background-size: cover;
+  background-position: center;
+}
+slide:nth-child(8){
+  animation-delay: 0s;
+  background-image: url(../ASSET/14.jpg);
+  background-size: cover;
+  background-position: center;
+}
+@keyframes slide {
   0%{left: 100%;width: 100%;}
-  5%{left: 100%;}
-  25%{left: -100%;}
-  30%{left: -100%;width: 100%;}
-  30.0001{left: 100%;width: 0%;}
-  100%{left: 100%;width: 0%}
   }
 section>article:nth-child(1)>img{
   position: absolute;
