@@ -179,38 +179,66 @@ nav ul li a:hover{
   }
   footer>img:nth-child(1){
     width: 80px;
-    top: 40px;
+    top: 10px;
     left: 200px;
     height: 60px;
     position: absolute;
   }
   footer>img:nth-child(2){
     width: 80px;
-    top: 40px;
+    top: 10px;
     left: 400px;
     height: 60px;
     position: absolute;
   }
   footer>img:nth-child(3){
     width: 80px;
-    top: 40px;
+    top: 10px;
     left: 600px;
     height: 60px;
     position: absolute;
   }
   footer>img:nth-child(4){
     width: 80px;
-    top: 40px;
+    top: 10px;
     left: 800px;
     height: 60px;
     position: absolute;
   }
   footer>img:nth-child(5){
     width: 80px;
-    top: 40px;
+    top: 10px;
     left: 1000px;
     height: 60px;
     position: absolute;
+  }
+  .a{
+    position: absolute;
+    margin: 0px;
+    left: 500px;
+    color: grey;
+    top: 80px;
+  }
+  .b{
+    position: absolute;
+    margin: 0px;
+    left: 470px;
+    color: grey;
+    top: 100px;
+  }
+  .c{
+    position: absolute;
+    margin: 0px;
+    left: 500px;
+    color: grey;
+    top: 120px;
+  }
+  .d{
+    position: absolute;
+    margin: 0px;
+    left: 540px;
+    color: grey;
+    top: 140px;
   }
   .img2{
   position: absolute;
@@ -386,6 +414,69 @@ nav ul li a:hover{
         position: absolute;
         top:625px;
       }
+      footer>img:nth-child(1){
+        width: 80px;
+        top: 10px;
+        left: 200px;
+        height: 60px;
+        position: absolute;
+      }
+      footer>img:nth-child(2){
+        width: 80px;
+        top: 10px;
+        left: 400px;
+        height: 60px;
+        position: absolute;
+      }
+      footer>img:nth-child(3){
+        width: 80px;
+        top: 10px;
+        left: 600px;
+        height: 60px;
+        position: absolute;
+      }
+      footer>img:nth-child(4){
+        width: 80px;
+        top: 10px;
+        left: 800px;
+        height: 60px;
+        position: absolute;
+      }
+      footer>img:nth-child(5){
+        width: 80px;
+        top: 10px;
+        left: 1000px;
+        height: 60px;
+        position: absolute;
+      }
+      .a{
+        position: absolute;
+        margin: 0px;
+        left: 500px;
+        color: grey;
+        top: 80px;
+      }
+      .b{
+        position: absolute;
+        margin: 0px;
+        left: 470px;
+        color: grey;
+        top: 100px;
+      }
+      .c{
+        position: absolute;
+        margin: 0px;
+        left: 500px;
+        color: grey;
+        top: 120px;
+      }
+      .d{
+        position: absolute;
+        margin: 0px;
+        left: 540px;
+        color: grey;
+        top: 140px;
+      }
       .img3{
       position: absolute;
       top: 0px;
@@ -560,6 +651,69 @@ nav ul li a:hover{
             position: absolute;
             top:625px;
           }
+          footer>img:nth-child(1){
+            width: 80px;
+            top: 10px;
+            left: 200px;
+            height: 60px;
+            position: absolute;
+          }
+          footer>img:nth-child(2){
+            width: 80px;
+            top: 10px;
+            left: 400px;
+            height: 60px;
+            position: absolute;
+          }
+          footer>img:nth-child(3){
+            width: 80px;
+            top: 10px;
+            left: 600px;
+            height: 60px;
+            position: absolute;
+          }
+          footer>img:nth-child(4){
+            width: 80px;
+            top: 10px;
+            left: 800px;
+            height: 60px;
+            position: absolute;
+          }
+          footer>img:nth-child(5){
+            width: 80px;
+            top: 10px;
+            left: 1000px;
+            height: 60px;
+            position: absolute;
+          }
+          .a{
+            position: absolute;
+            margin: 0px;
+            left: 500px;
+            color: grey;
+            top: 80px;
+          }
+          .b{
+            position: absolute;
+            margin: 0px;
+            left: 470px;
+            color: grey;
+            top: 100px;
+          }
+          .c{
+            position: absolute;
+            margin: 0px;
+            left: 500px;
+            color: grey;
+            top: 120px;
+          }
+          .d{
+            position: absolute;
+            margin: 0px;
+            left: 540px;
+            color: grey;
+            top: 140px;
+          }
           .img4{
           position: absolute;
           top: 0px;
@@ -733,6 +887,69 @@ nav ul li a:hover{
                 height: 180px;
                 position: absolute;
                 top:625px;
+              }
+              footer>img:nth-child(1){
+                width: 80px;
+                top: 10px;
+                left: 200px;
+                height: 60px;
+                position: absolute;
+              }
+              footer>img:nth-child(2){
+                width: 80px;
+                top: 10px;
+                left: 400px;
+                height: 60px;
+                position: absolute;
+              }
+              footer>img:nth-child(3){
+                width: 80px;
+                top: 10px;
+                left: 600px;
+                height: 60px;
+                position: absolute;
+              }
+              footer>img:nth-child(4){
+                width: 80px;
+                top: 10px;
+                left: 800px;
+                height: 60px;
+                position: absolute;
+              }
+              footer>img:nth-child(5){
+                width: 80px;
+                top: 10px;
+                left: 1000px;
+                height: 60px;
+                position: absolute;
+              }
+              .a{
+                position: absolute;
+                margin: 0px;
+                left: 500px;
+                color: grey;
+                top: 80px;
+              }
+              .b{
+                position: absolute;
+                margin: 0px;
+                left: 470px;
+                color: grey;
+                top: 100px;
+              }
+              .c{
+                position: absolute;
+                margin: 0px;
+                left: 500px;
+                color: grey;
+                top: 120px;
+              }
+              .d{
+                position: absolute;
+                margin: 0px;
+                left: 540px;
+                color: grey;
+                top: 140px;
               }
               .img5{
               position: absolute;
@@ -909,6 +1126,69 @@ nav ul li a:hover{
                     position: absolute;
                     top:625px;
                   }
+                  footer>img:nth-child(1){
+                    width: 80px;
+                    top: 10px;
+                    left: 200px;
+                    height: 60px;
+                    position: absolute;
+                  }
+                  footer>img:nth-child(2){
+                    width: 80px;
+                    top: 10px;
+                    left: 400px;
+                    height: 60px;
+                    position: absolute;
+                  }
+                  footer>img:nth-child(3){
+                    width: 80px;
+                    top: 10px;
+                    left: 600px;
+                    height: 60px;
+                    position: absolute;
+                  }
+                  footer>img:nth-child(4){
+                    width: 80px;
+                    top: 10px;
+                    left: 800px;
+                    height: 60px;
+                    position: absolute;
+                  }
+                  footer>img:nth-child(5){
+                    width: 80px;
+                    top: 10px;
+                    left: 1000px;
+                    height: 60px;
+                    position: absolute;
+                  }
+                  .a{
+                    position: absolute;
+                    margin: 0px;
+                    left: 500px;
+                    color: grey;
+                    top: 80px;
+                  }
+                  .b{
+                    position: absolute;
+                    margin: 0px;
+                    left: 470px;
+                    color: grey;
+                    top: 100px;
+                  }
+                  .c{
+                    position: absolute;
+                    margin: 0px;
+                    left: 500px;
+                    color: grey;
+                    top: 120px;
+                  }
+                  .d{
+                    position: absolute;
+                    margin: 0px;
+                    left: 540px;
+                    color: grey;
+                    top: 140px;
+                  }
                   .img6{
                   position: absolute;
                   top: 0px;
@@ -951,14 +1231,14 @@ nav ul li a:hover{
                   nav ul li a:hover{
                     border-bottom: solid black 4px;
                     }
-                    .romance{
+                    .fantasia{
                       width: 100%;
                       position: relative;
                       height: 70vh;
                       margin: auto;
                       overflow: hidden;
                     }
-                    .romance .romance1{
+                    .fantasia .fantasia1{
                       animation: cambio 20s infinite;
                       position:absolute;
                       top: 0;
@@ -966,25 +1246,25 @@ nav ul li a:hover{
                       height: 100%;
                       width: 400vw;
                     }
-                    .romance img{
+                    .fantasia img{
                       width: 100vw;
                       height: 100%;
                       object-fit: cover;
                       position: absolute;
                     }
-                   .romance  img:nth-child(1){
+                   .fantasia  img:nth-child(1){
                       left: 0;
                     }
-                    .romance  img:nth-child(2){
+                    .fantasia  img:nth-child(2){
                       left: 100vw;
                     }
-                    .romance  img:nth-child(3){
+                   .fantasia  img:nth-child(3){
                       left: 200vw;
                     }
-                    .romance  img:nth-child(4){
+                    .fantasia  img:nth-child(4){
                       left: 300vw;
                     }
-                    .romance  img:nth-child(5){
+                    .fantasia img:nth-child(5){
                       left: 400vw;
                     }
                     @keyframes cambio {
@@ -1082,6 +1362,69 @@ nav ul li a:hover{
                         height: 180px;
                         position: absolute;
                         top:625px;
+                      }
+                      footer>img:nth-child(1){
+                        width: 80px;
+                        top: 10px;
+                        left: 200px;
+                        height: 60px;
+                        position: absolute;
+                      }
+                      footer>img:nth-child(2){
+                        width: 80px;
+                        top: 10px;
+                        left: 400px;
+                        height: 60px;
+                        position: absolute;
+                      }
+                      footer>img:nth-child(3){
+                        width: 80px;
+                        top: 10px;
+                        left: 600px;
+                        height: 60px;
+                        position: absolute;
+                      }
+                      footer>img:nth-child(4){
+                        width: 80px;
+                        top: 10px;
+                        left: 800px;
+                        height: 60px;
+                        position: absolute;
+                      }
+                      footer>img:nth-child(5){
+                        width: 80px;
+                        top: 10px;
+                        left: 1000px;
+                        height: 60px;
+                        position: absolute;
+                      }
+                      .a{
+                        position: absolute;
+                        margin: 0px;
+                        left: 500px;
+                        color: grey;
+                        top: 80px;
+                      }
+                      .b{
+                        position: absolute;
+                        margin: 0px;
+                        left: 470px;
+                        color: grey;
+                        top: 100px;
+                      }
+                      .c{
+                        position: absolute;
+                        margin: 0px;
+                        left: 500px;
+                        color: grey;
+                        top: 120px;
+                      }
+                      .d{
+                        position: absolute;
+                        margin: 0px;
+                        left: 540px;
+                        color: grey;
+                        top: 140px;
                       }
                       .img7{
                       position: absolute;
@@ -1256,4 +1599,67 @@ nav ul li a:hover{
                             height: 180px;
                             position: absolute;
                             top:625px;
+                          }
+                          footer>img:nth-child(1){
+                            width: 80px;
+                            top: 10px;
+                            left: 200px;
+                            height: 60px;
+                            position: absolute;
+                          }
+                          footer>img:nth-child(2){
+                            width: 80px;
+                            top: 10px;
+                            left: 400px;
+                            height: 60px;
+                            position: absolute;
+                          }
+                          footer>img:nth-child(3){
+                            width: 80px;
+                            top: 10px;
+                            left: 600px;
+                            height: 60px;
+                            position: absolute;
+                          }
+                          footer>img:nth-child(4){
+                            width: 80px;
+                            top: 10px;
+                            left: 800px;
+                            height: 60px;
+                            position: absolute;
+                          }
+                          footer>img:nth-child(5){
+                            width: 80px;
+                            top: 10px;
+                            left: 1000px;
+                            height: 60px;
+                            position: absolute;
+                          }
+                          .a{
+                            position: absolute;
+                            margin: 0px;
+                            left: 500px;
+                            color: grey;
+                            top: 80px;
+                          }
+                          .b{
+                            position: absolute;
+                            margin: 0px;
+                            left: 470px;
+                            color: grey;
+                            top: 100px;
+                          }
+                          .c{
+                            position: absolute;
+                            margin: 0px;
+                            left: 500px;
+                            color: grey;
+                            top: 120px;
+                          }
+                          .d{
+                            position: absolute;
+                            margin: 0px;
+                            left: 540px;
+                            color: grey;
+                            top: 140px;
                           }
