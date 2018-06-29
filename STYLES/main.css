@@ -34,7 +34,7 @@ nav>ul>li{
 display:inline-block;
 }
 a{
-  padding: 150px 20px 0px 20px;
+  padding: 150px 30px 30px 30px;
   display: inline-block;
   color: grey;
   font-family: 'Tangerine', serif;
@@ -212,34 +212,7 @@ nav ul li a:hover{
     height: 60px;
     position: absolute;
   }
-  .a{
-    position: absolute;
-    margin: 0px;
-    left: 500px;
-    color: grey;
-    top: 80px;
-  }
-  .b{
-    position: absolute;
-    margin: 0px;
-    left: 470px;
-    color: grey;
-    top: 100px;
-  }
-  .c{
-    position: absolute;
-    margin: 0px;
-    left: 500px;
-    color: grey;
-    top: 120px;
-  }
-  .d{
-    position: absolute;
-    margin: 0px;
-    left: 540px;
-    color: grey;
-    top: 140px;
-  }
+
   .img2{
   position: absolute;
   top: 0px;
@@ -334,22 +307,20 @@ nav ul li a:hover{
       90%{transform: translateX(-400vw);}
       100%{transform: translateX(-400vw);}
     }
-    section>article:nth-child(1)>img{
+    article:nth-child(1)>a>img{
       position: absolute;
-      top: 420px;
-      left: 100px;
+      top: 300px;
+      left: 20px;
       margin: 0 auto;
       width: 150px;
-      height: 200px;
+      height: 0px;
       border: solid 3px grey;
       padding: 0px ;
-      width: 150px;
-      height: 200px;
 
       }
       section>article:nth-child(2)>img{
         position: absolute;
-        top: 420px;
+        top: 200px;
         left: 300px;
         margin: 0 auto;
         width:  150px;
@@ -357,11 +328,11 @@ nav ul li a:hover{
         border:solid 3px grey;
         padding: 0px;
         width: 150px;
-        height: 200px;
+        height: 150px;
       }
       section>article:nth-child(3)>img{
         position: absolute;
-        top: 420px;
+        top: 200px;
         left: 500px;
         margin: 0 auto;
         width:  150px;
@@ -369,15 +340,15 @@ nav ul li a:hover{
         border: solid 3px grey;
         padding: 0px;
         width: 150px;
-        height: 200px;
+        height: 0px;
       }
       section>article:nth-child(4)>img{
         position: absolute;
-        top: 420px;
+        top: 200px;
         left: 700px;
         margin: 0 auto;
         width:  150px;
-        height: 200px;
+        height: 0px;
         border: solid 3px grey;
         padding: 0px;
         width: 150px;
@@ -385,11 +356,11 @@ nav ul li a:hover{
       }
       section>article:nth-child(5)>img{
         position: absolute;
-        top: 420px;
+        top: 200px;
         left: 900px;
         margin: 0 auto;
         width:  150px;
-        height: 200px;
+        height: 0px;
         border:solid 3px grey;
         padding: 0px;
         width: 150px;
@@ -397,11 +368,11 @@ nav ul li a:hover{
       }
       section>article:nth-child(6)>img{
         position: absolute;
-        top: 420px;
+        top: 200px;
         left: 1100px;
         margin: 0 auto;
         width: 150px;
-        height: 200px;
+        height:0px;
         border: solid 3px grey;
         padding: 0px;
         width: 150px;
@@ -412,7 +383,7 @@ nav ul li a:hover{
         width: 100%;
         height: 180px;
         position: absolute;
-        top:625px;
+        top:700px;
       }
       footer>img:nth-child(1){
         width: 80px;
@@ -450,32 +421,36 @@ nav ul li a:hover{
         position: absolute;
       }
       .a{
-        position: absolute;
-        margin: 0px;
-        left: 500px;
-        color: grey;
-        top: 80px;
+      position: absolute;
+      padding: 0px;
+      margin: 0px;
+      left: 380px;
+      color: white;
+      top: 100px;
       }
       .b{
-        position: absolute;
-        margin: 0px;
-        left: 470px;
-        color: grey;
-        top: 100px;
+    position: absolute;
+      padding: 0px;
+      margin: 0px;
+      left: 380px;
+      color: white;
+      top: 120px;
       }
       .c{
-        position: absolute;
-        margin: 0px;
-        left: 500px;
-        color: grey;
-        top: 120px;
+      position: absolute;
+      padding: 0px;
+      margin: 0px;
+      left: 380px;
+      color: white;
+      top: 140px;
       }
       .d{
-        position: absolute;
-        margin: 0px;
-        left: 540px;
-        color: grey;
-        top: 140px;
+      position: absolute;
+      padding: 0px;
+      margin: 0px;
+      left: 380px;
+      color: white;
+      top: 160px;
       }
       .img3{
       position: absolute;
@@ -649,7 +624,7 @@ nav ul li a:hover{
             width: 100%;
             height: 180px;
             position: absolute;
-            top:625px;
+            top:700px;
           }
           footer>img:nth-child(1){
             width: 80px;
@@ -687,32 +662,36 @@ nav ul li a:hover{
             position: absolute;
           }
           .a{
-            position: absolute;
-            margin: 0px;
-            left: 500px;
-            color: grey;
-            top: 80px;
+          position: absolute;
+          padding: 0px;
+          margin: 0px;
+          left: 380px;
+          color: white;
+          top: 100px;
           }
           .b{
-            position: absolute;
-            margin: 0px;
-            left: 470px;
-            color: grey;
-            top: 100px;
+        position: absolute;
+          padding: 0px;
+          margin: 0px;
+          left: 380px;
+          color: white;
+          top: 120px;
           }
           .c{
-            position: absolute;
-            margin: 0px;
-            left: 500px;
-            color: grey;
-            top: 120px;
+          position: absolute;
+          padding: 0px;
+          margin: 0px;
+          left: 380px;
+          color: white;
+          top: 140px;
           }
           .d{
-            position: absolute;
-            margin: 0px;
-            left: 540px;
-            color: grey;
-            top: 140px;
+          position: absolute;
+          padding: 0px;
+          margin: 0px;
+          left: 380px;
+          color: white;
+          top: 160px;
           }
           .img4{
           position: absolute;
@@ -886,7 +865,7 @@ nav ul li a:hover{
                 width: 100%;
                 height: 180px;
                 position: absolute;
-                top:625px;
+                top:700px;
               }
               footer>img:nth-child(1){
                 width: 80px;
@@ -924,32 +903,36 @@ nav ul li a:hover{
                 position: absolute;
               }
               .a{
-                position: absolute;
-                margin: 0px;
-                left: 500px;
-                color: grey;
-                top: 80px;
+              position: absolute;
+              padding: 0px;
+              margin: 0px;
+              left: 380px;
+              color: white;
+              top: 100px;
               }
               .b{
-                position: absolute;
-                margin: 0px;
-                left: 470px;
-                color: grey;
-                top: 100px;
+            position: absolute;
+              padding: 0px;
+              margin: 0px;
+              left: 380px;
+              color: white;
+              top: 120px;
               }
               .c{
-                position: absolute;
-                margin: 0px;
-                left: 500px;
-                color: grey;
-                top: 120px;
+              position: absolute;
+              padding: 0px;
+              margin: 0px;
+              left: 380px;
+              color: white;
+              top: 140px;
               }
               .d{
-                position: absolute;
-                margin: 0px;
-                left: 540px;
-                color: grey;
-                top: 140px;
+              position: absolute;
+              padding: 0px;
+              margin: 0px;
+              left: 380px;
+              color: white;
+              top: 160px;
               }
               .img5{
               position: absolute;
@@ -1124,7 +1107,7 @@ nav ul li a:hover{
                     width: 100%;
                     height: 180px;
                     position: absolute;
-                    top:625px;
+                    top:700px;
                   }
                   footer>img:nth-child(1){
                     width: 80px;
@@ -1162,32 +1145,36 @@ nav ul li a:hover{
                     position: absolute;
                   }
                   .a{
-                    position: absolute;
-                    margin: 0px;
-                    left: 500px;
-                    color: grey;
-                    top: 80px;
+                  position: absolute;
+                  padding: 0px;
+                  margin: 0px;
+                  left: 380px;
+                  color: white;
+                  top: 100px;
                   }
                   .b{
-                    position: absolute;
-                    margin: 0px;
-                    left: 470px;
-                    color: grey;
-                    top: 100px;
+                position: absolute;
+                  padding: 0px;
+                  margin: 0px;
+                  left: 380px;
+                  color: white;
+                  top: 120px;
                   }
                   .c{
-                    position: absolute;
-                    margin: 0px;
-                    left: 500px;
-                    color: grey;
-                    top: 120px;
+                  position: absolute;
+                  padding: 0px;
+                  margin: 0px;
+                  left: 380px;
+                  color: white;
+                  top: 140px;
                   }
                   .d{
-                    position: absolute;
-                    margin: 0px;
-                    left: 540px;
-                    color: grey;
-                    top: 140px;
+                  position: absolute;
+                  padding: 0px;
+                  margin: 0px;
+                  left: 380px;
+                  color: white;
+                  top: 160px;
                   }
                   .img6{
                   position: absolute;
@@ -1361,7 +1348,7 @@ nav ul li a:hover{
                         width: 100%;
                         height: 180px;
                         position: absolute;
-                        top:625px;
+                        top:700px;
                       }
                       footer>img:nth-child(1){
                         width: 80px;
@@ -1399,32 +1386,36 @@ nav ul li a:hover{
                         position: absolute;
                       }
                       .a{
-                        position: absolute;
-                        margin: 0px;
-                        left: 500px;
-                        color: grey;
-                        top: 80px;
+                      position: absolute;
+                      padding: 0px;
+                      margin: 0px;
+                      left: 380px;
+                      color: white;
+                      top: 100px;
                       }
                       .b{
-                        position: absolute;
-                        margin: 0px;
-                        left: 470px;
-                        color: grey;
-                        top: 100px;
+                    position: absolute;
+                      padding: 0px;
+                      margin: 0px;
+                      left: 380px;
+                      color: white;
+                      top: 120px;
                       }
                       .c{
-                        position: absolute;
-                        margin: 0px;
-                        left: 500px;
-                        color: grey;
-                        top: 120px;
+                      position: absolute;
+                      padding: 0px;
+                      margin: 0px;
+                      left: 380px;
+                      color: white;
+                      top: 140px;
                       }
                       .d{
-                        position: absolute;
-                        margin: 0px;
-                        left: 540px;
-                        color: grey;
-                        top: 140px;
+                      position: absolute;
+                      padding: 0px;
+                      margin: 0px;
+                      left: 380px;
+                      color: white;
+                      top: 160px;
                       }
                       .img7{
                       position: absolute;
@@ -1636,30 +1627,690 @@ nav ul li a:hover{
                             position: absolute;
                           }
                           .a{
-                            position: absolute;
-                            margin: 0px;
-                            left: 500px;
-                            color: grey;
-                            top: 80px;
+                          position: absolute;
+                          padding: 0px;
+                          margin: 0px;
+                          left: 450px;
+                          color: white;
+                          top: 100px;
                           }
                           .b{
-                            position: absolute;
-                            margin: 0px;
-                            left: 470px;
-                            color: grey;
-                            top: 100px;
+                        position: absolute;
+                          padding: 0px;
+                          margin: 0px;
+                          left: 450px;
+                          color: white;
+                          top: 120px;
                           }
                           .c{
-                            position: absolute;
-                            margin: 0px;
-                            left: 500px;
-                            color: grey;
-                            top: 120px;
+                          position: absolute;
+                          padding: 0px;
+                          margin: 0px;
+                          left: 450px;
+                          color: white;
+                          top: 140px;
                           }
                           .d{
-                            position: absolute;
-                            margin: 0px;
-                            left: 540px;
-                            color: grey;
-                            top: 140px;
+                          position: absolute;
+                          padding: 0px;
+                          margin: 0px;
+                          left: 450px;
+                          color: white;
+                          top: 160px;
                           }
+
+                          /*accion1*/
+                        article>a>img:nth-child(1){
+                          position: absolute;
+                          top: 420px;
+                          left: 100px;
+                          margin: 0 auto;
+                          width: 150px;
+                          height: 200px;
+                          border:solid 3px grey;
+                        }
+                        .una{
+                          background-color: black;
+                          width: 100%;
+                          height: 200px;
+                        }
+                        .img1{
+                          position: absolute;
+                          top: 0px;
+                          left: 250px;
+                          margin: 0 auto;
+                          width: 150px;
+                           height: 150px;
+                        }
+                        .ac1{
+                          background-color: grey;
+                          width: 100%;
+                          height: 700px;
+                        }
+                        .foot{
+                          width: 100%;
+                          height: 200px;
+                          top: 900px;
+                        }
+                        .videotrailer{
+                          display: block;
+                          width: 73%;
+                          height: auto;
+                          top: 5px;
+                          bottom: 30%;
+                          left: 450px;
+                          position: relative;
+                        }
+                        .videotrailer>video{
+                          width: 73%;
+                          height: auto;
+                          left: 450px;
+                        }
+                          /*accion2*/
+                          article>a>img:nth-child(2){
+                            position: absolute;
+                            top: 420px;
+                            left: 300px;
+                            margin: 0 auto;
+                            width: 150px;
+                            height: 200px;
+                            border:solid 3px grey;
+                          }
+                          .dos{
+                            background-color: black;
+                            width: 100%;
+                            height: 200px;
+                          }
+                          .img1{
+                            position: absolute;
+                            top: 0px;
+                            left: 250px;
+                            margin: 0 auto;
+                            width: 150px;
+                             height: 150px;
+                          }
+                          .ac2{
+                            background-color: grey;
+                            width: 100%;
+                            height: 700px;
+                          }
+                          .foot2{
+                            width: 100%;
+                            height: 200px;
+                            top: 900px;
+                          }
+                          .videotrailer2{
+                            display: block;
+                            width: 73%;
+                            height: auto;
+                            top: 5px;
+                            bottom: 30%;
+                            left: 450px;
+                            position: relative;
+                          }
+                          .videotrailer2>video{
+                            width: 73%;
+                            height: auto;
+                            left: 450px;
+                          }
+/*jkdjiasdj*/
+.ta>article:nth-child(1){
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.ta>article>a>img{
+  width: 150px;
+  height: 200px;
+}
+.ta>article:nth-child(2){
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.ta>article:nth-child(3){
+  position: absolute;
+  top: 0px;
+  left: 380px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.ta>article:nth-child(4){
+  position: absolute;
+  top: 0px;
+  left: 560px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.ta>article:nth-child(5){
+  position: absolute;
+  top: 0px;
+  left: 740px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.ta>article:nth-child(6){
+  position: absolute;
+  top: 0px;
+  left: 920px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+/*infantil*/
+.inf>article:nth-child(1){
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.inf>article>a>img{
+  width: 150px;
+  height: 200px;
+}
+.inf>article:nth-child(2){
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+}
+.inf>article:nth-child(3){
+  position: absolute;
+  top: 0px;
+  left: 380px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.inf>article:nth-child(4){
+  position: absolute;
+  top: 0px;
+  left: 560px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.inf>article:nth-child(5){
+  position: absolute;
+  top: 0px;
+  left: 740px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.inf>article:nth-child(6){
+  position: absolute;
+  top: 0px;
+  left: 920px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.una{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac1{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+.dos{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac2{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot2{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer2{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer2>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+/*comedia*/
+.com>article:nth-child(1){
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.com>article>a>img{
+  width: 150px;
+  height: 200px;
+}
+.com>article:nth-child(2){
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+}
+.com>article:nth-child(3){
+  position: absolute;
+  top: 0px;
+  left: 380px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.com>article:nth-child(4){
+  position: absolute;
+  top: 0px;
+  left: 560px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.com>article:nth-child(5){
+  position: absolute;
+  top: 0px;
+  left: 740px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.com>article:nth-child(6){
+  position: absolute;
+  top: 0px;
+  left: 920px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.una{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac1{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+.dos{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac2{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot2{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer2{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer2>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+/*fantasia*/
+.fan>article:nth-child(1){
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.fan>article>a>img{
+  width: 150px;
+  height: 200px;
+}
+.fan>article:nth-child(2){
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+}
+.fan>article:nth-child(3){
+  position: absolute;
+  top: 0px;
+  left: 380px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.fan>article:nth-child(4){
+  position: absolute;
+  top: 0px;
+  left: 560px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.fan>article:nth-child(5){
+  position: absolute;
+  top: 0px;
+  left: 740px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.fan>article:nth-child(6){
+  position: absolute;
+  top: 0px;
+  left: 920px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.una{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac1{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+.dos{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac2{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot2{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer2{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer2>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+/*terror*/
+.te>article:nth-child(1){
+  position: absolute;
+  top: 0px;
+  left: 20px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.te>article>a>img{
+  width: 150px;
+  height: 200px;
+}
+.te>article:nth-child(2){
+  position: absolute;
+  top: 0px;
+  left: 200px;
+  margin: 0 auto;
+  width: 200px;
+  height: 100px;
+}
+.te>article:nth-child(3){
+  position: absolute;
+  top: 0px;
+  left: 380px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.te>article:nth-child(4){
+  position: absolute;
+  top: 0px;
+  left: 560px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.te>article:nth-child(5){
+  position: absolute;
+  top: 0px;
+  left: 740px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.te>article:nth-child(6){
+  position: absolute;
+  top: 0px;
+  left: 920px;
+  margin: 0 auto;
+  width: 250px;
+  height: 100px;
+}
+.una{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac1{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
+.dos{
+  background-color: black;
+  width: 100%;
+  height: 200px;
+}
+.img1{
+  position: absolute;
+  top: 0px;
+  left: 250px;
+  margin: 0 auto;
+  width: 150px;
+   height: 150px;
+}
+.ac2{
+  background-color: grey;
+  width: 100%;
+  height: 700px;
+}
+.foot2{
+  width: 100%;
+  height: 200px;
+  top: 900px;
+}
+.videotrailer2{
+  display: block;
+  width: 73%;
+  height: auto;
+  top: 5px;
+  bottom: 30%;
+  left: 450px;
+  position: relative;
+}
+.videotrailer2>video{
+  width: 73%;
+  height: auto;
+  left: 450px;
+}
